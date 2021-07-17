@@ -1,0 +1,16 @@
+[09-Sep-2020 14:37:07 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rayhanDBmytutor'@'localhost' (using password: YES) in /home/mytutors/public_html/config/config.php on line 51
+[29-Sep-2020 13:39:37 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 53
+[29-Sep-2020 13:39:37 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 54
+[07-Nov-2020 18:08:45 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 53
+[07-Nov-2020 18:08:45 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 54
+[20-Dec-2020 16:55:33 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 53
+[20-Dec-2020 16:55:33 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 54
+[22-Dec-2020 04:09:40 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 53
+[22-Dec-2020 04:09:40 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 54
+[26-Dec-2020 00:02:33 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 53
+[26-Dec-2020 00:02:33 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 54
+[26-Dec-2020 18:36:47 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 53
+[26-Dec-2020 18:36:47 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mytutors/public_html/classes/generalClass.php on line 54
+
+
+
